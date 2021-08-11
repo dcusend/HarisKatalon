@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>sale_OnlineCheck_Debit_Corporate_Successful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf2e4b33-f0d0-4b59-ba4d-8356e045ce74</testCaseGuid>
+</TestCaseEntity>

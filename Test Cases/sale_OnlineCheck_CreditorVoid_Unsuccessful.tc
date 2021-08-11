@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>sale_OnlineCheck_CreditorVoid_Unsuccessful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8b88f87-9903-42f2-9257-08ec1a9fa027</testCaseGuid>
+</TestCaseEntity>
